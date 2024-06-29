@@ -1,0 +1,1 @@
+This Weather App allows users to get the current weather and a 24-hour forecast for any city. The app leverages the OpenWeatherMap API to fetch weather data, which is then displayed in a user-friendly interface. The application is built using HTML, CSS, and JavaScript.
